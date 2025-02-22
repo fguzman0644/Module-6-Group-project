@@ -14,7 +14,7 @@ while playAgain == True:
     #generate random number to be guessed
     random_int = random.randint(1,10)
     #Users guess
-    user_guess = int(input("Guess a number between 1-10: "))
+    user_guess = int(input("Guess a number between 1-11: "))
 #while user hasnt guessed the right number it will give a hint and ask to try again
     while user_guess != random_int:
         if user_guess < random_int:
