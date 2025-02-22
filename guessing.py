@@ -18,9 +18,9 @@ while playAgain == True:
 #while user hasnt guessed the right number it will give a hint and ask to try again
     while user_guess != random_int:
         if user_guess < random_int:
-            user_guess = int(input("Incorrect, guess higher."))
+            user_guess = int(input("Incorrect, guess higher: "))
         elif user_guess > random_int:
-            user_guess = int(input("Incorrect, guess lower."))
+            user_guess = int(input("Incorrect, guess lower: "))
     
     print("Well done, you guessed it.")
 #ask user if to try again. 
