@@ -13,4 +13,3 @@ This is a simple guessing game where the program generates a random number betwe
 3. The program will tell you if your guess is too high, too low, or correct.
 4. If you guess correctly, you will be congratulated.
 5. You can choose to play again or exit the game.
-![image](https://github.com/user-attachments/assets/c2d1ffef-6cfe-49a3-8c07-4f524ce22c85)
