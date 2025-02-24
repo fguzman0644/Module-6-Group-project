@@ -1,4 +1,4 @@
-#Fernando Guzman, Michael Calderon, Medina Kubanychbekova,
+#Fernando Guzman, Michael Calderon, Medina Kubanychbekova, Ariben Ballesteros
 
 ##Guessing program that based off the user's input tells them
 ##"guess higher", "guess lower", or "well done, you guessed it."
@@ -8,6 +8,14 @@ import random
 
 #Defining While Loop Variable
 playAgain = True
+
+#Introduce program to user and give directions.
+print('''
+    In this game you will have to try and guess the number randomly 
+    by the program. If you guess wrong the program will give you a 
+    hint. Your hint will be try to lower or higher depending on your guess.
+    
+''')
 
 #While variable is true, program will keep running
 while playAgain == True:
