@@ -1,6 +1,6 @@
 # Module-6-Group-project
 
-# Fernando Guzman, Michael Calderon, Ariben Ballesteros
+# Fernando Guzman, Michael Calderon, Ariben Ballesteros, Medina Kubanychbekova
 
 ## Guessing Program
 
