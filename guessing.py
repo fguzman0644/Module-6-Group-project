@@ -33,7 +33,7 @@ while playAgain == True:
     print("Well done, you guessed it.")
 #ask user if to try again. 
     repeat = input("Would you like to guess a new number (Y/N)?").lower()
-    if repeat != "Y":
+    if repeat != "y":
         playAgain = False
     elif repeat == "y":
         input("Press Any Key To Start Over...")
