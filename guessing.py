@@ -1,4 +1,4 @@
-#Fernando Guzman, Michael Calderon
+#Fernando Guzman, Michael Calderon, Medina Kubanychbekova,
 
 ##Guessing program that based off the user's input tells them
 ##"guess higher", "guess lower", or "well done, you guessed it."
